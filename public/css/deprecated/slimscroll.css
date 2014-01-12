@@ -1,0 +1,15 @@
+
+.slimScrollDiv { 
+	border:1px solid #eee; 
+	width:100px;
+}
+
+#testDiv{
+	position: relative;
+	width:100px;
+}
+
+#testDivContainer{
+	position: relative;
+	width:100px;
+}
